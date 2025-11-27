@@ -24,7 +24,7 @@
     "id": "m4",
     "name": "Folder Gluer X",
     "type": "Collage",
-    "baseDailyCapacity": 1500,
+    "baseDailyCapacity": 3,
     "status": "active"
   }
 ]
