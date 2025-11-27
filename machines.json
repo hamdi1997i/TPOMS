@@ -8,14 +8,14 @@
   },
   {
     "id": "m2",
-    "name": "Die Cutter Pro ",
+    "name": "Die Cutter ",
     "type": "Découpe à Forme (Die Cutter)",
     "baseDailyCapacity": 4000,
     "status": "active"
   },
   {
     "id": "m3",
-    "name": "Flexo Print AMERICA",
+    "name": "Flexo Print AMERIC",
     "type": "Impression",
     "baseDailyCapacity": 12000,
     "status": "active"
