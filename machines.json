@@ -1,7 +1,7 @@
 [
   {
     "id": "m1",
-    "name": "Slotter/Pri",
+    "name": "Slotter/Print",
     "type": "Découpe",
     "baseDailyCapacity": 8000,
     "status": "active"
