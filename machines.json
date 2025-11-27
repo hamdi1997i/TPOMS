@@ -9,13 +9,13 @@
   {
     "id": "m2",
     "name": "Die Cutter ",
-    "type": "DÃ©coupe Ã  Forme (Die Cutter)",
+    "type": "Découpe à Forme (Die Cutter)",
     "baseDailyCapacity": 4000,
     "status": "active"
   },
   {
     "id": "m3",
-    "name": "Fl",
+    "name": "",
     "type": "Impression",
     "baseDailyCapacity": 12000,
     "status": "active"
