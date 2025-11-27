@@ -15,7 +15,7 @@
   },
   {
     "id": "m3",
-    "name": "Flexo Print AMER",
+    "name": "Flexo Pr",
     "type": "Impression",
     "baseDailyCapacity": 12000,
     "status": "active"
