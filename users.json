@@ -6,5 +6,13 @@
     "accessCode": "22684063",
     "repository": "",
     "isActive": true
+  },
+  {
+    "id": "u1764283556603",
+    "name": "Firas Partagili",
+    "role": "Client",
+    "accessCode": "616686",
+    "repository": "hamdi1997i/Firaspartagili",
+    "isActive": true
   }
 ]
