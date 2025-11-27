@@ -1,0 +1,30 @@
+[
+  {
+    "id": "m1",
+    "name": "Slotter 2400",
+    "type": "Découpe",
+    "baseDailyCapacity": 8000,
+    "status": "active"
+  },
+  {
+    "id": "m2",
+    "name": "Die Cutter Pro 1",
+    "type": "Découpe à Forme (Die Cutter)",
+    "baseDailyCapacity": 4000,
+    "status": "active"
+  },
+  {
+    "id": "m3",
+    "name": "Flexo Print AMERICA",
+    "type": "Impression",
+    "baseDailyCapacity": 12000,
+    "status": "active"
+  },
+  {
+    "id": "m4",
+    "name": "Folder Gluer X",
+    "type": "Collage",
+    "baseDailyCapacity": 15000,
+    "status": "active"
+  }
+]
