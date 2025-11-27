@@ -1,0 +1,10 @@
+[
+  {
+    "id": "admin",
+    "name": "Super Admin System",
+    "role": "Super Admin",
+    "accessCode": "22684063",
+    "repository": "",
+    "isActive": true
+  }
+]
