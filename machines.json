@@ -18,13 +18,13 @@
     "name": "",
     "type": "Impression",
     "baseDailyCapacity": 12000,
-    "status": "active"
+    "status": "maintenance"
   },
   {
     "id": "m4",
     "name": "Folder Gluer X",
     "type": "Collage",
-    "baseDailyCapacity": 15000,
+    "baseDailyCapacity": 1500,
     "status": "active"
   }
 ]
