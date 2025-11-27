@@ -1,8 +1,8 @@
 [
   {
     "id": "m1",
-    "name": "Slotter/Print",
-    "type": "Découpe",
+    "name": "Slotter/Printer",
+    "type": "Impression",
     "baseDailyCapacity": 8000,
     "status": "active"
   },
