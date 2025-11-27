@@ -1,7 +1,7 @@
 [
   {
     "id": "m1",
-    "name": "Slotter 240",
+    "name": "Slotter",
     "type": "Découpe",
     "baseDailyCapacity": 8000,
     "status": "active"
