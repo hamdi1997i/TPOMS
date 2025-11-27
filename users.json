@@ -6,13 +6,5 @@
     "accessCode": "22684063",
     "repository": "",
     "isActive": true
-  },
-  {
-    "id": "u1764282969310",
-    "name": "FirasPartagili",
-    "role": "Client",
-    "accessCode": "118636",
-    "repository": "hamdi1997i/TPOMS",
-    "isActive": true
   }
 ]
