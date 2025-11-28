@@ -4,7 +4,7 @@
     "targetUserId": "u1764283556603",
     "message": "test notification!!",
     "createdAt": "2025-11-28T10:01:39.783Z",
-    "isRead": false,
+    "isRead": true,
     "senderName": "Super Admin System"
   }
 ]
