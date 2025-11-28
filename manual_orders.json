@@ -1,0 +1,26 @@
+[
+  {
+    "id": "o1764331407993",
+    "clientName": "DREAM EMBALLAGE",
+    "productName": "CAISSE AMERICAINE",
+    "length": 61,
+    "width": 34,
+    "height": 25,
+    "paperType": "Testliner",
+    "fluteType": "C (Moyenne)",
+    "quantity": 1000,
+    "priority": 1,
+    "rank": 1,
+    "status": "À Traiter",
+    "createdAt": "2025-11-28T12:03:27.993Z",
+    "deadline": "2025-11-28",
+    "history": [
+      {
+        "timestamp": "2025-11-28T12:03:27.993Z",
+        "action": "Création",
+        "details": "Commande créée (Qté: 1000)",
+        "actor": "Super Admin System"
+      }
+    ]
+  }
+]
