@@ -46,5 +46,29 @@
         "actor": "Super Admin System"
       }
     ]
+  },
+  {
+    "id": "o1764331501041",
+    "clientName": "USINE SMAOUI",
+    "productName": "CAISSE PETIT MODELE",
+    "length": 29,
+    "width": 24,
+    "height": 11,
+    "paperType": "Testliner",
+    "fluteType": "B (Simple)",
+    "quantity": 12000,
+    "priority": 1,
+    "rank": 3,
+    "status": "À Traiter",
+    "createdAt": "2025-11-28T12:05:01.041Z",
+    "deadline": "2025-11-28",
+    "history": [
+      {
+        "timestamp": "2025-11-28T12:05:01.041Z",
+        "action": "Création",
+        "details": "Commande créée (Qté: 12000)",
+        "actor": "Super Admin System"
+      }
+    ]
   }
 ]
