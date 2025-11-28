@@ -18,7 +18,7 @@
     "name": "",
     "type": "Impression",
     "baseDailyCapacity": 12000,
-    "status": "maintenance"
+    "status": "active"
   },
   {
     "id": "m4",
