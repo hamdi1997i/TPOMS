@@ -26,6 +26,12 @@
         "action": "Planification",
         "details": "Planification définie (1 étapes)",
         "actor": "Super Admin System"
+      },
+      {
+        "timestamp": "2025-11-29T09:09:54.799Z",
+        "action": "Mise à jour Workflow",
+        "details": "Workflow défini (1 étapes)",
+        "actor": "Super Admin System"
       }
     ],
     "steps": [
