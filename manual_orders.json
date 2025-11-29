@@ -111,7 +111,7 @@
     "height": 11,
     "paperType": "Testliner",
     "fluteType": "B (Simple)",
-    "quantity": 12000,
+    "quantity": 2000,
     "priority": 1,
     "rank": 3,
     "status": "Planifié",
@@ -129,6 +129,12 @@
         "action": "Planification",
         "details": "Planification définie (2 étapes)",
         "actor": "Super Admin System"
+      },
+      {
+        "timestamp": "2025-11-29T13:01:39.420Z",
+        "action": "Modification Admin",
+        "details": "Modification détails: Qté(12000->2000)",
+        "actor": "Super Admin System"
       }
     ],
     "steps": [
@@ -138,7 +144,10 @@
         "stepName": "Impression",
         "piecesPerStroke": 1,
         "calculatedDailyCapacity": 8000,
-        "order": 1
+        "order": 1,
+        "scheduledStartDate": "2025-11-29T13:01:17.137Z",
+        "scheduledEndDate": "2025-12-01T08:31:17.137Z",
+        "estimatedDurationDays": 1.81
       },
       {
         "id": "step-1764331597496",
@@ -146,9 +155,14 @@
         "stepName": "Collage",
         "piecesPerStroke": 1,
         "calculatedDailyCapacity": 3000,
-        "order": 2
+        "order": 2,
+        "scheduledStartDate": "2025-12-01T08:31:17.137Z",
+        "scheduledEndDate": "2025-12-05T08:31:17.137Z",
+        "estimatedDurationDays": 4
       }
-    ]
+    ],
+    "scheduledStartDate": "2025-11-29T13:01:17.137Z",
+    "scheduledEndDate": "2025-12-05T08:31:17.137Z"
   },
   {
     "id": "o1764406216271",
