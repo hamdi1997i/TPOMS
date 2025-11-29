@@ -11,7 +11,7 @@
     "quantity": 1000,
     "priority": 1,
     "rank": 1,
-    "status": "Planifié",
+    "status": "Terminé",
     "createdAt": "2025-11-28T12:03:27.993Z",
     "deadline": "2025-11-28",
     "history": [
@@ -31,6 +31,12 @@
         "timestamp": "2025-11-28T12:05:28.920Z",
         "action": "Modification Admin",
         "details": "Modification détails:",
+        "actor": "Super Admin System"
+      },
+      {
+        "timestamp": "2025-11-29T11:23:31.690Z",
+        "action": "Changement Statut",
+        "details": "Nouveau statut : Terminé",
         "actor": "Super Admin System"
       }
     ],
@@ -213,6 +219,7 @@
         "details": "Entrée manuelle (900 unités)",
         "actor": "Super Admin System"
       }
-    ]
+    ],
+    "rank": 11
   }
 ]
