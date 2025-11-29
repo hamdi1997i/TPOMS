@@ -8,7 +8,7 @@
     "height": 25,
     "paperType": "Testliner",
     "fluteType": "C (Moyenne)",
-    "quantity": 1000,
+    "quantity": 1020,
     "priority": 1,
     "rank": 1,
     "status": "Terminé",
@@ -38,6 +38,12 @@
         "action": "Changement Statut",
         "details": "Nouveau statut : Terminé",
         "actor": "Super Admin System"
+      },
+      {
+        "timestamp": "2025-11-29T14:01:20.094Z",
+        "action": "Modification",
+        "details": "Modification détails: Qté(1000->1020)",
+        "actor": "Ahmed Top Pack"
       }
     ],
     "steps": [
