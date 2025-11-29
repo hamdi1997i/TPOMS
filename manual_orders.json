@@ -229,7 +229,7 @@
     "fluteType": "B (Simple)",
     "quantity": 900,
     "priority": 0,
-    "status": "Terminé",
+    "status": "Livrée",
     "createdAt": "2025-11-29T10:11:43.656Z",
     "scheduledEndDate": "2025-11-29T10:11:43.656Z",
     "history": [
@@ -237,6 +237,12 @@
         "timestamp": "2025-11-29T10:11:43.656Z",
         "action": "Entrée Stock",
         "details": "Entrée manuelle (900 unités)",
+        "actor": "Super Admin System"
+      },
+      {
+        "timestamp": "2025-11-29T13:26:46.277Z",
+        "action": "Changement Statut",
+        "details": "Nouveau statut : Livrée",
         "actor": "Super Admin System"
       }
     ],
