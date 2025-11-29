@@ -150,7 +150,7 @@
     "quantity": 1000,
     "priority": 1,
     "rank": 4,
-    "status": "À Traiter",
+    "status": "Planifié",
     "createdAt": "2025-11-29T08:50:16.271Z",
     "deadline": "2025-12-07",
     "history": [
@@ -159,6 +159,30 @@
         "action": "Création",
         "details": "Commande créée (Qté: 1000)",
         "actor": "Super Admin System"
+      },
+      {
+        "timestamp": "2025-11-29T08:50:33.927Z",
+        "action": "Planification",
+        "details": "Planification définie (2 étapes)",
+        "actor": "Super Admin System"
+      }
+    ],
+    "steps": [
+      {
+        "id": "step-1764406222535",
+        "machineId": "m1",
+        "stepName": "Impression",
+        "piecesPerStroke": 1,
+        "calculatedDailyCapacity": 8000,
+        "order": 1
+      },
+      {
+        "id": "step-1764406230015",
+        "machineId": "m4",
+        "stepName": "Collage",
+        "piecesPerStroke": 1,
+        "calculatedDailyCapacity": 3000,
+        "order": 2
       }
     ]
   }
