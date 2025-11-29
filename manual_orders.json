@@ -141,22 +141,25 @@
         "action": "Mise à jour Workflow",
         "details": "Workflow défini (2 étapes) [Début: 01/12/2025]",
         "actor": "Super Admin System"
+      },
+      {
+        "timestamp": "2025-11-29T13:02:49.916Z",
+        "action": "Mise à jour Workflow",
+        "details": "Workflow défini (2 étapes) [Début: 01/12/2025]",
+        "actor": "Super Admin System"
       }
     ],
     "steps": [
       {
-        "id": "step-1764331592608",
-        "machineId": "m1",
-        "stepName": "Impression",
+        "id": "step-1764421352460",
+        "machineId": "m2",
+        "stepName": "Découpe à Forme (Die Cutter)",
         "piecesPerStroke": 1,
-        "calculatedDailyCapacity": 8000,
-        "order": 1,
-        "scheduledStartDate": "2025-11-29T13:01:17.137Z",
-        "scheduledEndDate": "2025-12-01T08:31:17.137Z",
-        "estimatedDurationDays": 1.81
+        "calculatedDailyCapacity": 4000,
+        "order": 1
       },
       {
-        "id": "step-1764421331252",
+        "id": "step-1764421369004",
         "machineId": "m4",
         "stepName": "Collage",
         "piecesPerStroke": 1.5,
