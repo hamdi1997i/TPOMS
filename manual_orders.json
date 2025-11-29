@@ -234,7 +234,7 @@
     "quantity": 500,
     "priority": 1,
     "rank": 12,
-    "status": "À Traiter",
+    "status": "Planifié",
     "createdAt": "2025-11-29T11:46:37.059Z",
     "deadline": "2025-12-04",
     "history": [
@@ -243,6 +243,22 @@
         "action": "Création",
         "details": "Commande créée (Qté: 500)",
         "actor": "Super Admin System"
+      },
+      {
+        "timestamp": "2025-11-29T11:47:00.210Z",
+        "action": "Planification",
+        "details": "Workflow défini (1 étapes)",
+        "actor": "Super Admin System"
+      }
+    ],
+    "steps": [
+      {
+        "id": "step-1764416817994",
+        "machineId": "m2",
+        "stepName": "Découpe à Forme (Die Cutter)",
+        "piecesPerStroke": 0.5,
+        "calculatedDailyCapacity": 2000,
+        "order": 1
       }
     ]
   }
